@@ -18,8 +18,3 @@
 
 <img  src="https://vtang.oss-cn-hangzhou.aliyuncs.com/2024-08-31-vx.jpg" width="200"/>
 
-### 🚀 免费知识星球
-我将在星球分享架构设计、AI实践和个人成长的干货，帮助你提升技术、掌握前沿动态，找到职业发展的方向,期待与大家共同探讨。
-
-<img  src="https://vtang.oss-cn-hangzhou.aliyuncs.com/2024-08-31-xq.jpg" width="400"/>
-
